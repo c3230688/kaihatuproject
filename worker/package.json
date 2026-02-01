@@ -1,8 +1,0 @@
-{
-    "name": "trip-api-worker",
-    "private": true,
-    "type": "module",
-    "dependencies": {
-        "jose": "^5.6.3"
-    }
-}
